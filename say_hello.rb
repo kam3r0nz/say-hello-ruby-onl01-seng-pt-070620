@@ -8,3 +8,5 @@ say_hello("Kent Back")
 def say_hello(name = "Ruby Programmer")
   puts "Hello ${name}!"
 end
+
+say_hello("Kameron")
